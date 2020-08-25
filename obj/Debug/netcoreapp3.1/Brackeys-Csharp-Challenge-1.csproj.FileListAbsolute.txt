@@ -1,0 +1,13 @@
+D:\Coding\C#\Brackeys-Csharp-Challenge-1\bin\Debug\netcoreapp3.1\Brackeys-Csharp-Challenge-1.exe
+D:\Coding\C#\Brackeys-Csharp-Challenge-1\bin\Debug\netcoreapp3.1\Brackeys-Csharp-Challenge-1.deps.json
+D:\Coding\C#\Brackeys-Csharp-Challenge-1\bin\Debug\netcoreapp3.1\Brackeys-Csharp-Challenge-1.runtimeconfig.json
+D:\Coding\C#\Brackeys-Csharp-Challenge-1\bin\Debug\netcoreapp3.1\Brackeys-Csharp-Challenge-1.runtimeconfig.dev.json
+D:\Coding\C#\Brackeys-Csharp-Challenge-1\bin\Debug\netcoreapp3.1\Brackeys-Csharp-Challenge-1.dll
+D:\Coding\C#\Brackeys-Csharp-Challenge-1\bin\Debug\netcoreapp3.1\Brackeys-Csharp-Challenge-1.pdb
+D:\Coding\C#\Brackeys-Csharp-Challenge-1\obj\Debug\netcoreapp3.1\Brackeys-Csharp-Challenge-1.csprojAssemblyReference.cache
+D:\Coding\C#\Brackeys-Csharp-Challenge-1\obj\Debug\netcoreapp3.1\Brackeys-Csharp-Challenge-1.AssemblyInfoInputs.cache
+D:\Coding\C#\Brackeys-Csharp-Challenge-1\obj\Debug\netcoreapp3.1\Brackeys-Csharp-Challenge-1.AssemblyInfo.cs
+D:\Coding\C#\Brackeys-Csharp-Challenge-1\obj\Debug\netcoreapp3.1\Brackeys-Csharp-Challenge-1.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Brackeys-Csharp-Challenge-1\obj\Debug\netcoreapp3.1\Brackeys-Csharp-Challenge-1.dll
+D:\Coding\C#\Brackeys-Csharp-Challenge-1\obj\Debug\netcoreapp3.1\Brackeys-Csharp-Challenge-1.pdb
+D:\Coding\C#\Brackeys-Csharp-Challenge-1\obj\Debug\netcoreapp3.1\Brackeys-Csharp-Challenge-1.genruntimeconfig.cache
